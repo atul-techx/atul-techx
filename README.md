@@ -1,8 +1,4 @@
 ![Programming](programming.gif)
-<p align="center">
-  <img src="programming.gif" width="500"/>
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Atul Gangwar</h1>
 <h3 align="center">A passionate developer exploring data, automation & analytics</h3>
