@@ -134,27 +134,27 @@ Currently building and experimenting with **MERN Stack applications** focusing o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atul-techx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-techx&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=atul-techx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atul-techx\&theme=tokyonight)](https://github.com/atul-techx)
+
+<br>
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atul-techx\&theme=tokyonight)](https://github.com/atul-techx)
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atul-techx\&theme=tokyonight)](https://github.com/atul-techx)
 
 </div>
 
