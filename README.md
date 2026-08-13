@@ -138,7 +138,7 @@ Currently building and experimenting with **MERN Stack applications** focusing o
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -148,7 +148,7 @@ Currently building and experimenting with **MERN Stack applications** focusing o
 
 <div align="center">
 
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atul-techx\&theme=tokyonight)](https://github.com/atul-techx)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atul-techx\&theme=tokyonight)](https://github.com/atul-techx)
 
 <br>
 
@@ -160,15 +160,6 @@ Currently building and experimenting with **MERN Stack applications** focusing o
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 ## 🎯 2026 Goals
 
