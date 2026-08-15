@@ -134,7 +134,7 @@ Currently building and experimenting with **MERN Stack applications** focusing o
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=atul-techx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
