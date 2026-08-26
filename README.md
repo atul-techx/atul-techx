@@ -134,11 +134,15 @@ Currently building and experimenting with **MERN Stack applications** focusing o
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight" alt="GitHub Streak" /> </a>
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
