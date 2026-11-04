@@ -61,15 +61,25 @@ Currently, I'm focused on Full-Stack Development using the MERN Stack and streng
 
 ---
 
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
 ### 🐍 Watch My Contributions
 
-<img src="./dist/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="./dist/github-snake.svg" width="100%">
+</picture>
 
 </div>
+
+---
+
 
 ---
 
