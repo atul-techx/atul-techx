@@ -173,26 +173,6 @@ I'm consistently improving my problem-solving abilities by learning Data Structu
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/atul-techx?tab=achievements">
-<img src="https://img.shields.io/badge/🏆_GitHub-Achievements-8957e5?style=for-the-badge" alt="GitHub Achievements" />
-</a>
-
-<a href="https://github.com/atul-techx?tab=repositories">
-<img src="https://img.shields.io/badge/⭐_Explore-My_Repositories-70A5FD?style=for-the-badge" alt="My Repositories" />
-</a>
-
-<br/><br/>
-
-**Keep Coding • Keep Contributing • Keep Growing 🚀**
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] 💻 Become a strong MERN Stack Developer.
