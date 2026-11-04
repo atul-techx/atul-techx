@@ -161,13 +161,15 @@ I'm consistently improving my problem-solving abilities by learning Data Structu
 
 <div align="center">
 
-<!-- <h2 align="center">📈 GitHub Activity Graph</h2> -->
-
-<p align="center">
   <a href="https://github.com/atul-techx">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true&area=true"
+      width="100%"
+      alt="Atul's GitHub Activity Graph"
+    />
   </a>
-</p>
+
+</div>
 
 ---
 
