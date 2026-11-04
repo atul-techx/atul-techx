@@ -9,17 +9,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Applications;Solving+DSA+Problems;Learning+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=atul-techx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/atul-techx?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=atul-techx&label=Profile%20Views&color=70A5FD&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/atul-techx?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+<img src="https://img.shields.io/github/repos/atul-techx?label=Public%20Repos&style=for-the-badge&color=purple" alt="Public Repositories" />
 </p>
 
 <p>
-  <a href="https://github.com/atul-techx">
-    <img src="https://img.shields.io/badge/GitHub-atul--techx-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/atul-gangwar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://github.com/atul-techx">
+<img src="https://img.shields.io/badge/GitHub-atul--techx-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/atul-gangwar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 </div>
@@ -48,13 +49,13 @@ Currently, I'm focused on Full-Stack Development using the MERN Stack and streng
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=atul-techx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="./profile/stats.svg" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=atul-techx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="65%" src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -64,39 +65,9 @@ Currently, I'm focused on Full-Stack Development using the MERN Stack and streng
 
 <div align="center">
 
-### Contribution Graph
+### 🐍 Watch My Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
-
-### Contribution Calendar
-
-<img src="https://ghchart.rshah.org/0e75b6/atul-techx" width="100%" alt="GitHub Contribution Calendar" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atul-techx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🗂️ GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atul-techx&theme=tokyonight" width="100%" alt="Profile Summary" />
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atul-techx&theme=tokyonight" alt="Profile Statistics" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atul-techx&theme=tokyonight" alt="Most Used Languages" />
+<img src="./dist/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
@@ -119,20 +90,21 @@ An AI-powered agricultural assistance platform designed to help small and margin
 
 🔗 [Explore Project Repository](https://github.com/HackIndiaXYZ/hackindia-spark-10-uttarakhand-north-region-quanta-byte)
 
-### 💻 MERN Stack Development
+### 🌐 HTML & CSS Portfolio
 
-Currently building full-stack applications and exploring real-world software engineering concepts.
+A personal portfolio project showcasing frontend development fundamentals and web design.
 
-**Areas of Development:**
-- 🔐 Authentication and Authorization.
-- 🗄️ Database Design with MongoDB.
-- 🔌 REST API Development.
-- ⚛️ Interactive React Interfaces.
-- 🟢 Backend Development with Node.js and Express.
-- 📱 Responsive Web Applications.
-- 🚀 Application Deployment.
+**Tech Stack:** `HTML` `CSS`
 
-🔗 [Explore My GitHub Repositories](https://github.com/atul-techx?tab=repositories)
+🔗 [Explore Portfolio Repository](https://github.com/atul-techx/HTML-CSS-Portfolio)
+
+### ☕ DSA College with Java
+
+A collection of Java programming practice, concepts and Data Structures & Algorithms learning resources.
+
+**Tech Stack:** `Java` `Data Structures` `Algorithms`
+
+🔗 [Explore DSA Repository](https://github.com/atul-techx/DSA-College-with-JAVA)
 
 ---
 
