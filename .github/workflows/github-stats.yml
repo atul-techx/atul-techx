@@ -1,30 +1,24 @@
-name: Update GitHub Stats
+
+name: Update GitHub Profile Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    paths:
-      - ".github/workflows/github-stats.yml"
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v6
 
-      - name: Generate GitHub Streak
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: user=atul-techx&theme=tokyonight&hide_border=true&disable_animations=true
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create Directories
+        run: mkdir -p profile dist
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -38,14 +32,20 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=atul-techx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
+          options: username=atul-techx&layout=compact&theme=tokyonight&langs_count=8
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated stats
+      - name: Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: atul-techx
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit Generated Images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update GitHub stats" || exit 0
+          git add profile/*.svg dist/*.svg
+          git commit -m "Update GitHub profile analytics" || exit 0
           git push
