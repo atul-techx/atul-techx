@@ -1,4 +1,13 @@
-![Programming](./programming.gif)
+ <!-- 🐍 TOP CONTRIBUTION SNAKE -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake.svg" width="100%" alt="GitHub Contribution Snake">
+</picture>
+</div>
+
 
 <div align="center">
 
@@ -58,43 +67,6 @@ Currently, I'm focused on Full-Stack Development using the MERN Stack and streng
 <img width="65%" src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
-
----
-
-
----
-
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-### 🐍 Watch My Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-    width="100%">
-</picture>
-
-</div>
-
----
-
-
----
-
 
 ---
 
@@ -182,6 +154,38 @@ I'm consistently improving my problem-solving abilities by learning Data Structu
 **My Approach**
 
 > Understand the problem → Build intuition → Optimize the solution → Analyze complexity → Practice consistently.
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+### 📅 My GitHub Contribution Calendar
+
+<img src="https://ghchart.rshah.org/0e75b6/atul-techx" width="100%" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/atul-techx?tab=achievements">
+<img src="https://img.shields.io/badge/🏆_GitHub-Achievements-8957e5?style=for-the-badge" alt="GitHub Achievements" />
+</a>
+
+<a href="https://github.com/atul-techx?tab=repositories">
+<img src="https://img.shields.io/badge/⭐_Explore-My_Repositories-70A5FD?style=for-the-badge" alt="My Repositories" />
+</a>
+
+<br/><br/>
+
+**Keep Coding • Keep Contributing • Keep Growing 🚀**
+
+</div>
 
 ---
 
