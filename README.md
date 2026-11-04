@@ -161,11 +161,13 @@ I'm consistently improving my problem-solving abilities by learning Data Structu
 
 <div align="center">
 
-### 📅 My GitHub Contribution Calendar
+<!-- <h2 align="center">📈 GitHub Activity Graph</h2> -->
 
-<img src="https://ghchart.rshah.org/0e75b6/atul-techx" width="100%" alt="GitHub Contribution Graph" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/atul-techx">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-techx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ---
 
