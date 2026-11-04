@@ -48,15 +48,13 @@ Currently, I'm focused on Full-Stack Development using the MERN Stack and streng
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atul-techx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=atul-techx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-techx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=atul-techx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atul-techx&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+<img width="70%" src="https://streak-stats.demolab.com?user=atul-techx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
