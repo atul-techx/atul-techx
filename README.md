@@ -1,5 +1,3 @@
-![Programming](programming.gif)
-
 ![Programming](./programming.gif)
 
 <div align="center">
