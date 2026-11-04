@@ -64,6 +64,9 @@ Currently, I'm focused on Full-Stack Development using the MERN Stack and streng
 
 ---
 
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -71,12 +74,24 @@ Currently, I'm focused on Full-Stack Development using the MERN Stack and streng
 ### 🐍 Watch My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="./dist/github-snake.svg" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/atul-techx/atul-techx/main/dist/github-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%">
 </picture>
 
 </div>
+
+---
+
 
 ---
 
