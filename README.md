@@ -11,7 +11,7 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=atul-techx&label=Profile%20Views&color=70A5FD&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/atul-techx?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-<img src="https://img.shields.io/github/repos/atul-techx?label=Public%20Repos&style=for-the-badge&color=purple" alt="Public Repositories" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fatul-techx&query=%24.public_repos&label=Public%20Repos&color=8957e5&style=for-the-badge" alt="Public Repositories" />
 </p>
 
 <p>
